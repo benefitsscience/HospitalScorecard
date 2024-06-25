@@ -1,0 +1,316 @@
+npi,taxid,plan_group_alias,billing_code,billing_code_type,negotiated_type,negotiated_rate_cal
+1447355771,741109643,bcbs_tx_ppo,1,DRG,negotiated,220590
+1447355771,741109643,bcbs_tx_ppo,1,DRG,percentage,67
+1447355771,741109643,uhc_choice_plus,1,DRG,negotiated,147468
+1447355771,741109643,bcbs_tx_ppo,2,DRG,negotiated,220590
+1447355771,741109643,bcbs_tx_ppo,2,DRG,percentage,67
+1447355771,741109643,uhc_choice_plus,2,DRG,negotiated,147468
+1447355771,741109643,bcbs_tx_ppo,5,DRG,percentage,66
+1447355771,741109643,bcbs_tx_ppo,6,DRG,percentage,66
+1447355771,741109643,bcbs_tx_ppo,7,DRG,percentage,66
+1447355771,741109643,bcbs_tx_ppo,8,DRG,percentage,66
+1447355771,741109643,bcbs_tx_ppo,10,DRG,percentage,66
+1447355771,741109643,bcbs_tx_ppo,14,DRG,percentage,66
+1447355771,741109643,bcbs_tx_ppo,16,DRG,percentage,66
+1447355771,741109643,bcbs_tx_ppo,17,DRG,percentage,66
+1447355771,741109643,cigna_national_oap,24,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,24,DRG,per diem,7965
+1447355771,741109643,cigna_national_oap,24,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,25,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,25,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,25,DRG,per diem,7965
+1447355771,741109643,cigna_national_oap,26,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,26,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,26,DRG,per diem,7965
+1447355771,741109643,cigna_national_oap,27,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,27,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,27,DRG,per diem,7965
+1447355771,741109643,cigna_national_oap,39,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,39,DRG,per diem,7965
+1447355771,741109643,cigna_national_oap,39,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,69,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,69,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,69,DRG,per diem,7965
+1447355771,741109643,uhc_choice_plus,215,DRG,negotiated,86357
+1447355771,741109643,uhc_choice_plus,216,DRG,negotiated,91595
+1447355771,741109643,cigna_national_oap,216,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,216,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,216,DRG,per diem,7965
+1447355771,741109643,uhc_choice_plus,217,DRG,negotiated,91595
+1447355771,741109643,uhc_choice_plus,218,DRG,negotiated,91595
+1447355771,741109643,uhc_choice_plus,219,DRG,negotiated,77732
+1447355771,741109643,uhc_choice_plus,220,DRG,negotiated,76071
+1447355771,741109643,uhc_choice_plus,221,DRG,negotiated,83808
+1447355771,741109643,uhc_choice_plus,222,DRG,negotiated,82339
+1447355771,741109643,uhc_choice_plus,223,DRG,negotiated,78652
+1447355771,741109643,uhc_choice_plus,224,DRG,negotiated,83164
+1447355771,741109643,uhc_choice_plus,225,DRG,negotiated,82339
+1447355771,741109643,uhc_choice_plus,226,DRG,negotiated,71460
+1447355771,741109643,uhc_choice_plus,227,DRG,negotiated,72175
+1447355771,741109643,uhc_choice_plus,228,DRG,negotiated,61437
+1447355771,741109643,uhc_choice_plus,229,DRG,negotiated,61437
+1447355771,741109643,uhc_choice_plus,230,DRG,negotiated,61437
+1447355771,741109643,uhc_choice_plus,231,DRG,negotiated,79281
+1447355771,741109643,uhc_choice_plus,232,DRG,negotiated,78495
+1447355771,741109643,uhc_choice_plus,233,DRG,negotiated,70398
+1447355771,741109643,uhc_choice_plus,234,DRG,negotiated,66690
+1447355771,741109643,uhc_choice_plus,235,DRG,negotiated,53450
+1447355771,741109643,uhc_choice_plus,236,DRG,negotiated,46416
+1447355771,741109643,uhc_choice_plus,242,DRG,negotiated,40135
+1447355771,741109643,uhc_choice_plus,243,DRG,negotiated,37684
+1447355771,741109643,uhc_choice_plus,244,DRG,negotiated,30007
+1447355771,741109643,uhc_choice_plus,245,DRG,negotiated,44844
+1447355771,741109643,uhc_choice_plus,246,DRG,negotiated,37063
+1447355771,741109643,cigna_national_oap,247,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,247,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,247,DRG,per diem,7965
+1447355771,741109643,uhc_choice_plus,247,DRG,negotiated,36141
+1447355771,741109643,uhc_choice_plus,248,DRG,negotiated,30727
+1447355771,741109643,uhc_choice_plus,249,DRG,negotiated,30727
+1447355771,741109643,cigna_national_oap,249,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,249,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,249,DRG,per diem,7965
+1447355771,741109643,uhc_choice_plus,250,DRG,negotiated,29419
+1447355771,741109643,uhc_choice_plus,251,DRG,negotiated,28196
+1447355771,741109643,cigna_national_oap,251,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,251,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,251,DRG,per diem,7965
+1447355771,741109643,uhc_choice_plus,252,DRG,negotiated,28275
+1447355771,741109643,uhc_choice_plus,253,DRG,negotiated,24659
+1447355771,741109643,uhc_choice_plus,254,DRG,negotiated,24659
+1447355771,741109643,uhc_choice_plus,258,DRG,negotiated,23286
+1447355771,741109643,uhc_choice_plus,259,DRG,negotiated,19791
+1447355771,741109643,uhc_choice_plus,260,DRG,negotiated,21800
+1447355771,741109643,uhc_choice_plus,261,DRG,negotiated,21582
+1447355771,741109643,uhc_choice_plus,262,DRG,negotiated,16244
+1447355771,741109643,uhc_choice_plus,266,DRG,negotiated,124233
+1447355771,741109643,uhc_choice_plus,267,DRG,negotiated,93280
+1447355771,741109643,uhc_choice_plus,268,DRG,negotiated,72445
+1447355771,741109643,uhc_choice_plus,269,DRG,negotiated,45032
+1447355771,741109643,uhc_choice_plus,270,DRG,negotiated,54615
+1447355771,741109643,uhc_choice_plus,271,DRG,negotiated,36249
+1447355771,741109643,uhc_choice_plus,272,DRG,negotiated,25962
+1447355771,741109643,uhc_choice_plus,273,DRG,negotiated,46808
+1447355771,741109643,uhc_choice_plus,274,DRG,negotiated,31904
+1447355771,741109643,uhc_choice_plus,280,DRG,negotiated,20779
+1447355771,741109643,uhc_choice_plus,281,DRG,negotiated,19458
+1447355771,741109643,uhc_choice_plus,282,DRG,negotiated,17997
+1447355771,741109643,uhc_choice_plus,283,DRG,negotiated,14812
+1447355771,741109643,uhc_choice_plus,284,DRG,negotiated,11708
+1447355771,741109643,uhc_choice_plus,285,DRG,negotiated,10034
+1447355771,741109643,uhc_choice_plus,286,DRG,negotiated,21049
+1447355771,741109643,cigna_national_oap,287,DRG,per diem,5796
+1447355771,741109643,uhc_choice_plus,287,DRG,negotiated,19247
+1447355771,741109643,bcbs_tx_ppo,287,DRG,per diem,7965
+1447355771,741109643,cigna_national_oap,287,DRG,per diem,5796
+1447355771,741109643,uhc_choice_plus,288,DRG,negotiated,35701
+1447355771,741109643,uhc_choice_plus,289,DRG,negotiated,20623
+1447355771,741109643,uhc_choice_plus,290,DRG,negotiated,12541
+1447355771,741109643,bcbs_tx_ppo,313,DRG,per diem,7965
+1447355771,741109643,cigna_national_oap,313,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,313,DRG,per diem,5796
+1447355771,741109643,uhc_choice_plus,319,DRG,negotiated,53222
+1447355771,741109643,uhc_choice_plus,320,DRG,negotiated,30470
+1447355771,741109643,bcbs_tx_ppo,418,DRG,per diem,7965
+1447355771,741109643,cigna_national_oap,419,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,419,DRG,per diem,7965
+1447355771,741109643,cigna_national_oap,419,DRG,per diem,5796
+1447355771,741109643,uhc_choice_plus,453,DRG,negotiated,82216
+1447355771,741109643,bcbs_tx_ppo,454,DRG,per diem,7965
+1447355771,741109643,cigna_national_oap,454,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,454,DRG,per diem,5796
+1447355771,741109643,uhc_choice_plus,454,DRG,negotiated,34702
+1447355771,741109643,cigna_national_oap,455,DRG,per diem,5796
+1447355771,741109643,uhc_choice_plus,455,DRG,negotiated,20903
+1447355771,741109643,bcbs_tx_ppo,455,DRG,per diem,7965
+1447355771,741109643,cigna_national_oap,455,DRG,per diem,5796
+1447355771,741109643,uhc_choice_plus,456,DRG,negotiated,42493
+1447355771,741109643,uhc_choice_plus,457,DRG,negotiated,23672
+1447355771,741109643,uhc_choice_plus,458,DRG,negotiated,16908
+1447355771,741109643,uhc_choice_plus,459,DRG,negotiated,20886
+1447355771,741109643,uhc_choice_plus,460,DRG,negotiated,18863
+1447355771,741109643,cigna_national_oap,460,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,460,DRG,per diem,7965
+1447355771,741109643,cigna_national_oap,460,DRG,per diem,5796
+1447355771,741109643,uhc_choice_plus,461,DRG,negotiated,21002
+1447355771,741109643,uhc_choice_plus,462,DRG,negotiated,15845
+1447355771,741109643,uhc_choice_plus,466,DRG,negotiated,31106
+1447355771,741109643,uhc_choice_plus,467,DRG,negotiated,20398
+1447355771,741109643,uhc_choice_plus,468,DRG,negotiated,15216
+1447355771,741109643,uhc_choice_plus,469,DRG,negotiated,22411
+1447355771,741109643,cigna_national_oap,470,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,470,DRG,per diem,7965
+1447355771,741109643,cigna_national_oap,470,DRG,per diem,5796
+1447355771,741109643,uhc_choice_plus,470,DRG,negotiated,12967
+1447355771,741109643,uhc_choice_plus,471,DRG,negotiated,19242
+1447355771,741109643,uhc_choice_plus,472,DRG,negotiated,14429
+1447355771,741109643,uhc_choice_plus,473,DRG,negotiated,10968
+1447355771,741109643,bcbs_tx_ppo,473,DRG,per diem,7965
+1447355771,741109643,cigna_national_oap,473,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,473,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,491,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,491,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,491,DRG,per diem,7965
+1447355771,741109643,uhc_choice_plus,492,DRG,negotiated,22361
+1447355771,741109643,uhc_choice_plus,493,DRG,negotiated,21154
+1447355771,741109643,cigna_national_oap,494,DRG,per diem,5796
+1447355771,741109643,uhc_choice_plus,494,DRG,negotiated,11970
+1447355771,741109643,cigna_national_oap,494,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,494,DRG,per diem,7965
+1447355771,741109643,cigna_national_oap,512,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,512,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,512,DRG,per diem,7965
+1447355771,741109643,uhc_choice_plus,518,DRG,negotiated,12838
+1447355771,741109643,uhc_choice_plus,519,DRG,negotiated,12838
+1447355771,741109643,uhc_choice_plus,520,DRG,negotiated,11042
+1447355771,741109643,uhc_choice_plus,521,DRG,negotiated,22411
+1447355771,741109643,uhc_choice_plus,522,DRG,negotiated,12967
+1447355771,741109643,uhc_choice_plus,619,DRG,negotiated,28960
+1447355771,741109643,uhc_choice_plus,620,DRG,negotiated,28960
+1447355771,741109643,uhc_choice_plus,621,DRG,negotiated,28960
+1447355771,741109643,bcbs_tx_ppo,652,DRG,percentage,66
+1447355771,741109643,cigna_national_oap,742,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,742,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,742,DRG,per diem,7965
+1447355771,741109643,bcbs_tx_ppo,743,DRG,per diem,7965
+1447355771,741109643,cigna_national_oap,743,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,743,DRG,per diem,5796
+1447355771,741109643,bcbs_tx_ppo,748,DRG,per diem,7965
+1447355771,741109643,cigna_national_oap,748,DRG,per diem,5796
+1447355771,741109643,cigna_national_oap,748,DRG,per diem,5796
+1447355771,741109643,aetna_open_access_managed,765,DRG,negotiated,7911
+1447355771,741109643,cigna_national_oap,765,DRG,negotiated,7686
+1447355771,741109643,cigna_national_oap,765,DRG,negotiated,7686
+1447355771,741109643,uhc_choice_plus,765,DRG,negotiated,10696
+1447355771,741109643,cigna_national_oap,766,DRG,negotiated,7686
+1447355771,741109643,uhc_choice_plus,766,DRG,negotiated,10696
+1447355771,741109643,aetna_open_access_managed,766,DRG,negotiated,7911
+1447355771,741109643,cigna_national_oap,766,DRG,negotiated,7686
+1447355771,741109643,aetna_open_access_managed,767,DRG,negotiated,4998
+1447355771,741109643,cigna_national_oap,767,DRG,negotiated,6773
+1447355771,741109643,cigna_national_oap,767,DRG,negotiated,6773
+1447355771,741109643,uhc_choice_plus,767,DRG,negotiated,7188
+1447355771,741109643,uhc_choice_plus,768,DRG,negotiated,7188
+1447355771,741109643,cigna_national_oap,768,DRG,negotiated,6773
+1447355771,741109643,cigna_national_oap,768,DRG,negotiated,6773
+1447355771,741109643,bcbs_tx_ppo,768,DRG,negotiated,6740
+1447355771,741109643,aetna_open_access_managed,768,DRG,negotiated,4998
+1447355771,741109643,bcbs_tx_ppo,768,DRG,negotiated,6740
+1447355771,741109643,aetna_open_access_managed,774,DRG,negotiated,4998
+1447355771,741109643,cigna_national_oap,774,DRG,negotiated,6773
+1447355771,741109643,cigna_national_oap,774,DRG,negotiated,6773
+1447355771,741109643,uhc_choice_plus,774,DRG,negotiated,7188
+1447355771,741109643,uhc_choice_plus,775,DRG,negotiated,7188
+1447355771,741109643,cigna_national_oap,775,DRG,negotiated,6773
+1447355771,741109643,aetna_open_access_managed,775,DRG,negotiated,4998
+1447355771,741109643,cigna_national_oap,775,DRG,negotiated,6773
+1447355771,741109643,uhc_choice_plus,780,DRG,per diem,2990
+1447355771,741109643,bcbs_tx_ppo,783,DRG,negotiated,9804
+1447355771,741109643,bcbs_tx_ppo,783,DRG,negotiated,9804
+1447355771,741109643,cigna_national_oap,783,DRG,negotiated,7686
+1447355771,741109643,cigna_national_oap,783,DRG,negotiated,7686
+1447355771,741109643,uhc_choice_plus,783,DRG,negotiated,10696
+1447355771,741109643,uhc_choice_plus,784,DRG,negotiated,10696
+1447355771,741109643,cigna_national_oap,784,DRG,negotiated,7686
+1447355771,741109643,cigna_national_oap,784,DRG,negotiated,7686
+1447355771,741109643,bcbs_tx_ppo,784,DRG,negotiated,9804
+1447355771,741109643,bcbs_tx_ppo,784,DRG,negotiated,9804
+1447355771,741109643,bcbs_tx_ppo,785,DRG,negotiated,9804
+1447355771,741109643,bcbs_tx_ppo,785,DRG,negotiated,9804
+1447355771,741109643,cigna_national_oap,785,DRG,negotiated,7686
+1447355771,741109643,cigna_national_oap,785,DRG,negotiated,7686
+1447355771,741109643,uhc_choice_plus,785,DRG,negotiated,10696
+1447355771,741109643,uhc_choice_plus,786,DRG,negotiated,10696
+1447355771,741109643,cigna_national_oap,786,DRG,negotiated,7686
+1447355771,741109643,bcbs_tx_ppo,786,DRG,negotiated,9804
+1447355771,741109643,bcbs_tx_ppo,786,DRG,negotiated,9804
+1447355771,741109643,cigna_national_oap,786,DRG,negotiated,7686
+1447355771,741109643,bcbs_tx_ppo,787,DRG,negotiated,9804
+1447355771,741109643,bcbs_tx_ppo,787,DRG,negotiated,9804
+1447355771,741109643,cigna_national_oap,787,DRG,negotiated,7686
+1447355771,741109643,cigna_national_oap,787,DRG,negotiated,7686
+1447355771,741109643,uhc_choice_plus,787,DRG,negotiated,10696
+1447355771,741109643,uhc_choice_plus,788,DRG,negotiated,10696
+1447355771,741109643,cigna_national_oap,788,DRG,negotiated,7686
+1447355771,741109643,cigna_national_oap,788,DRG,negotiated,7686
+1447355771,741109643,bcbs_tx_ppo,788,DRG,negotiated,9804
+1447355771,741109643,bcbs_tx_ppo,788,DRG,negotiated,9804
+1447355771,741109643,bcbs_tx_ppo,789,DRG,per diem,1531
+1447355771,741109643,cigna_national_oap,789,DRG,percentage,51
+1447355771,741109643,cigna_national_oap,789,DRG,percentage,51
+1447355771,741109643,uhc_choice_plus,789,DRG,per diem,2618
+1447355771,741109643,uhc_choice_plus,790,DRG,per diem,6352
+1447355771,741109643,bcbs_tx_ppo,790,DRG,per diem,1531
+1447355771,741109643,cigna_national_oap,790,DRG,percentage,51
+1447355771,741109643,cigna_national_oap,790,DRG,percentage,51
+1447355771,741109643,bcbs_tx_ppo,791,DRG,per diem,1531
+1447355771,741109643,cigna_national_oap,791,DRG,percentage,51
+1447355771,741109643,cigna_national_oap,791,DRG,percentage,51
+1447355771,741109643,uhc_choice_plus,791,DRG,per diem,4279
+1447355771,741109643,bcbs_tx_ppo,792,DRG,per diem,1531
+1447355771,741109643,cigna_national_oap,792,DRG,percentage,51
+1447355771,741109643,cigna_national_oap,792,DRG,percentage,51
+1447355771,741109643,uhc_choice_plus,792,DRG,per diem,2618
+1447355771,741109643,bcbs_tx_ppo,793,DRG,per diem,1531
+1447355771,741109643,cigna_national_oap,793,DRG,percentage,51
+1447355771,741109643,cigna_national_oap,793,DRG,percentage,51
+1447355771,741109643,uhc_choice_plus,793,DRG,per diem,4279
+1447355771,741109643,cigna_national_oap,794,DRG,percentage,51
+1447355771,741109643,uhc_choice_plus,794,DRG,per diem,2618
+1447355771,741109643,bcbs_tx_ppo,794,DRG,per diem,1531
+1447355771,741109643,cigna_national_oap,794,DRG,percentage,51
+1447355771,741109643,bcbs_tx_ppo,795,DRG,per diem,1226
+1447355771,741109643,cigna_national_oap,795,DRG,per diem,857
+1447355771,741109643,cigna_national_oap,795,DRG,per diem,857
+1447355771,741109643,uhc_choice_plus,795,DRG,per diem,1001
+1447355771,741109643,uhc_choice_plus,796,DRG,negotiated,7188
+1447355771,741109643,cigna_national_oap,796,DRG,negotiated,6773
+1447355771,741109643,bcbs_tx_ppo,796,DRG,negotiated,6740
+1447355771,741109643,bcbs_tx_ppo,796,DRG,negotiated,6740
+1447355771,741109643,cigna_national_oap,796,DRG,negotiated,6773
+1447355771,741109643,bcbs_tx_ppo,797,DRG,negotiated,6740
+1447355771,741109643,bcbs_tx_ppo,797,DRG,negotiated,6740
+1447355771,741109643,cigna_national_oap,797,DRG,negotiated,6773
+1447355771,741109643,cigna_national_oap,797,DRG,negotiated,6773
+1447355771,741109643,uhc_choice_plus,797,DRG,negotiated,7188
+1447355771,741109643,cigna_national_oap,798,DRG,negotiated,6773
+1447355771,741109643,uhc_choice_plus,798,DRG,negotiated,7188
+1447355771,741109643,bcbs_tx_ppo,798,DRG,negotiated,6740
+1447355771,741109643,cigna_national_oap,798,DRG,negotiated,6773
+1447355771,741109643,bcbs_tx_ppo,798,DRG,negotiated,6740
+1447355771,741109643,bcbs_tx_ppo,805,DRG,negotiated,6740
+1447355771,741109643,bcbs_tx_ppo,805,DRG,negotiated,6740
+1447355771,741109643,cigna_national_oap,805,DRG,negotiated,6773
+1447355771,741109643,cigna_national_oap,805,DRG,negotiated,6773
+1447355771,741109643,uhc_choice_plus,805,DRG,negotiated,7188
+1447355771,741109643,uhc_choice_plus,806,DRG,negotiated,7188
+1447355771,741109643,cigna_national_oap,806,DRG,negotiated,6773
+1447355771,741109643,bcbs_tx_ppo,806,DRG,negotiated,6740
+1447355771,741109643,bcbs_tx_ppo,806,DRG,negotiated,6740
+1447355771,741109643,cigna_national_oap,806,DRG,negotiated,6773
+1447355771,741109643,cigna_national_oap,807,DRG,negotiated,6773
+1447355771,741109643,bcbs_tx_ppo,807,DRG,negotiated,6740
+1447355771,741109643,bcbs_tx_ppo,807,DRG,negotiated,6740
+1447355771,741109643,cigna_national_oap,807,DRG,negotiated,6773
+1447355771,741109643,uhc_choice_plus,807,DRG,negotiated,7188
+1447355771,741109643,bcbs_tx_ppo,876,DRG,per diem,1210
+1447355771,741109643,bcbs_tx_ppo,880,DRG,per diem,1210
+1447355771,741109643,bcbs_tx_ppo,881,DRG,per diem,1210
+1447355771,741109643,bcbs_tx_ppo,882,DRG,per diem,1210
+1447355771,741109643,bcbs_tx_ppo,883,DRG,per diem,1210
+1447355771,741109643,bcbs_tx_ppo,884,DRG,per diem,1210
+1447355771,741109643,bcbs_tx_ppo,885,DRG,per diem,1210
+1447355771,741109643,bcbs_tx_ppo,886,DRG,per diem,1210
+1447355771,741109643,bcbs_tx_ppo,887,DRG,per diem,1210
+1447355771,741109643,bcbs_tx_ppo,894,DRG,per diem,1210
+1447355771,741109643,bcbs_tx_ppo,895,DRG,per diem,1210
+1447355771,741109643,bcbs_tx_ppo,896,DRG,per diem,1210
+1447355771,741109643,bcbs_tx_ppo,897,DRG,per diem,1210
+1447355771,741109643,bcbs_tx_ppo,927,DRG,percentage,66
+1447355771,741109643,bcbs_tx_ppo,928,DRG,percentage,66
+1447355771,741109643,bcbs_tx_ppo,929,DRG,percentage,66
+1447355771,741109643,bcbs_tx_ppo,933,DRG,percentage,66
+1447355771,741109643,bcbs_tx_ppo,934,DRG,percentage,66
+1447355771,741109643,bcbs_tx_ppo,935,DRG,percentage,66
+1447355771,741109643,bcbs_tx_ppo,945,DRG,percentage,66
+1447355771,741109643,bcbs_tx_ppo,946,DRG,percentage,66
